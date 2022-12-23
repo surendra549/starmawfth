@@ -1,0 +1,9 @@
+{
+	"name": "eirgueurghur",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "94de7424-bb75-494f-85f9-1a73c1b8b71b",
+		"tenantId": "3617ef9b-98b4-40d9-ba43-e1ed6709cf0d"
+	}
+}
